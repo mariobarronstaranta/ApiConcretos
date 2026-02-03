@@ -1,0 +1,6 @@
+@TanquesAPI_HostAddress = http://localhost:5231
+
+GET {{TanquesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,30 @@
+# Carpetas de compilación
+bin/
+obj/
+.vs/
+.vscode/
+
+# Archivos de usuario
+*.user
+*.sln.docstates
+.vscode/
+
+# Dependencias NuGet
+packages/
+.nuget/
+
+# Archivos temporales
+*.tmp
+*.log
+*.pdb
+
+# Configuración local (sensible)
+appsettings.Development.json
+appsettings.Production.json
+web.config
+
+# Otros
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
